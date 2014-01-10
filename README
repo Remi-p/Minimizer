@@ -1,0 +1,11 @@
+Hey !
+
+Basically, you just need to
+ - put these files into a folder of your choice
+ - create a MySQL database and import the ".sql" thing
+ - change the bdd.php with your own settings
+
+Tout ce dont vous avez besoin est de
+ - mettre les fichiers dans un dossier de votre choix
+ - créer la BDD MySQL, et importer le fichier SQL
+ - changer les données de bdd.php selon vos besoin
